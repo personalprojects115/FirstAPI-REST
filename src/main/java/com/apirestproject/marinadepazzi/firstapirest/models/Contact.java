@@ -1,4 +1,4 @@
-package com.models;
+package com.apirestproject.marinadepazzi.firstapirest.models;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
